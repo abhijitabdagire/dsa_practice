@@ -24,10 +24,32 @@
 18. Maximum Product Subarray - Leetcode (DSA Sheet)
 19. Maximum Sum Subarray - Leetcode
 
-Extra to solve question is :
+Extra question to solve this :
 
 [Remove Duplicates from Sorted Array - LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 [Find First and Last Position of Element in Sorted Array - LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
 [Container With Most Water - LeetCode](https://leetcode.com/problems/container-with-most-water/)
+
+
+# 2D Array
+
+1. Basic 2D Array Program - Lecture
+2. Spiral Matrix - Lecture (DSA Sheet) + Leetcode
+3. Diagonal Sum - Lecture + Leetcode
+4. Search in Sorted Matrix (StairCase_Search) - Lecture + Leetcode
+5. Zigzag (or diagonal) Traversal of Matrix -  Leetcode (DSA Sheet)
+6. Set Matrix Zeroes - Leetcode (DSA Sheet)
+7. Rotate Image - Leetcode (DSA Sheet)
+8. Search a 2D Matrix (StairCase_Search) - Leetcode
+9. Search a 2D Matrix II (StairCase_Search) - LeetCode
+10. Sprial Matrix II - Leetcode
+
+Extra question that I have Solve along with :
+
+[Binary Serach](https://leetcode.com/submissions/detail/1123132104/)
+[Search Insert Position ](https://leetcode.com/submissions/detail/1123145610/)
+[Remove Duplicates from sorted list ](https://leetcode.com/submissions/detail/1123188241/)
+[Remove Element ](https://leetcode.com/submissions/detail/1123323837/)
+
