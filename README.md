@@ -49,7 +49,11 @@ Extra question to solve this :
 Extra question that I have Solve along with :
 
 [Binary Serach](https://leetcode.com/submissions/detail/1123132104/)
+
 [Search Insert Position ](https://leetcode.com/submissions/detail/1123145610/)
+
 [Remove Duplicates from sorted list ](https://leetcode.com/submissions/detail/1123188241/)
+
 [Remove Element ](https://leetcode.com/submissions/detail/1123323837/)
+
 
