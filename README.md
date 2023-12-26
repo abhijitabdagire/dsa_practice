@@ -57,3 +57,39 @@ Extra question that I have Solve along with :
 [Remove Element ](https://leetcode.com/submissions/detail/1123323837/)
 
 
+# String
+
+1. Basic String Program - Lecture
+2. Basic String Second Programs - Lecture
+3. Palindrome String - Lecture
+4. GetShortestPath String - Lecture
+5. Largest String - Lecture 
+6. FirstLetter UpperCase - Lecture
+7. String Compression - Lecture
+8. Valid Palindrome - Leetcode (DSA Sheet)
+9. Valid Palindrome II - LeetCode
+10. Valid Anagram - Leetcode (DSA Sheet)
+11. Valid Parentheses - Leetcode (DSA Sheet)
+12. Remove Consecutive Characters - GFG (DSA Sheet)
+13. Longest Common Prefix - Leetcode (DSA Sheet)
+14. Longest Substring Without Repeating Characters - Leetcode (DSA Sheet)
+15. Reverse Words in a String - Leetcode
+16. Palindrome Number - Leetcode
+17. Reverse String - Leetcode
+18. Reverse String II - Leetcode
+19. Length of Last Word - Leetcode
+20. Romen to Integer - Leetcode
+
+Extra question that I have Solve along with :
+
+[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+[Merge Sorted Array](https://leetcode.com/submissions/detail/1127166957/)
+[Missing Number](https://leetcode.com/submissions/detail/1127906471/)
+[Single Number](https://leetcode.com/submissions/detail/1127926046/)
+[Single Number II](https://leetcode.com/submissions/detail/1127965974/)
+[Find the Duplicate Number](https://leetcode.com/submissions/detail/1127958379/)
+
+
+
+
+ 
