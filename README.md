@@ -83,10 +83,15 @@ Extra question that I have Solve along with :
 Extra question that I have Solve along with :
 
 [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+
 [Merge Sorted Array](https://leetcode.com/submissions/detail/1127166957/)
+
 [Missing Number](https://leetcode.com/submissions/detail/1127906471/)
+
 [Single Number](https://leetcode.com/submissions/detail/1127926046/)
+
 [Single Number II](https://leetcode.com/submissions/detail/1127965974/)
+
 [Find the Duplicate Number](https://leetcode.com/submissions/detail/1127958379/)
 
 
