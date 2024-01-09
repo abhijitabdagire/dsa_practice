@@ -95,6 +95,60 @@ Extra question that I have Solve along with :
 [Find the Duplicate Number](https://leetcode.com/submissions/detail/1127958379/)
 
 
+# Linked List
+
+1. Linked List
+ - Basic of Linked List (How to create a linked list)
+ - Methods of Linked List 
+ - Add Operation -> addFirst(), addLast(), addAtIndex()
+ - print()
+ - Remove Operation -> removeFirst(), removeLast()
+
+2. Classroom.java -> Linked List in Java Collection Frameworks.
+
+3. Double Linked List -> addFirst(), removeFirst(), print, Reverse.
+
+## Questions
+1. Search(Iterative) Key
+2. recursiveSearch(Iterative) key
+3. Reverse Linked list
+4. Find and Remove Nth node from end
+5. Floyd's CFA
+5. Remove a loop/cycle in a linked list.
+6. Merge Sort on Linked List
+7. Zig-Zag Linked List
+
+## LeetCode Questions
+1. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
+2. [Remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+3. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
+4. [Linked List Cycle - II](https://leetcode.com/problems/linked-list-cycle-ii/)
+
+5. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+6. [Sort List](https://leetcode.com/problems/sort-list/)
+
+7. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+
+8. [Delete the middle node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
+
+9. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+
+10. [Reoder List or Zig-Zag Linked list](https://leetcode.com/problems/reorder-list/)
+
+11. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+
+12. [Remove Duplicates from Sorted List - II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+
+13. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+
+14. [Design Linked List](https://leetcode.com/problems/design-linked-list/)
+
+15. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+
 
 
  
