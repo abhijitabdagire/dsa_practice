@@ -149,6 +149,31 @@ Extra question that I have Solve along with :
 
 15. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
+# Stack
 
+1. StackA -> Stack Using ArrayList , Stack Using Linked List and Java Collection FrameWork.
+2. Stack_pushAtBottom 
+3. Stack_reverseString
+4. Stack_reverseStack
+5. Stack_stockSpan
+6. Stack_nextGreaterElement
+7. Stack_validParetheses
+8. Stack_duplicateParenthese
+9. Stack_maxAreaHistogram
+
+# LeetCode Questions
+1. [Valid Paretheses](https://leetcode.com/problems/valid-parentheses/description/)
+
+2. [Next Greater Element I ](https://leetcode.com/problems/valid-parentheses/)
+
+3. [Next Greater Element I ](https://leetcode.com/problems/next-greater-element-i/)
+
+4. [Min Stack ](https://leetcode.com/problems/min-stack/)
+
+5. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
+
+6. [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/)
+
+7. [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)
 
  
