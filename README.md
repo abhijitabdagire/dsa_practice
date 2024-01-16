@@ -177,3 +177,25 @@ Extra question that I have Solve along with :
 7. [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)
 
  
+ # Queue
+
+ 1. QueueA -> Implementation of Queue using Array and Circular Queue.
+ 2. Queue_usingLinkedList 
+ 3. Queue_usingTwoStack -> Implement Queue using Stacks
+ 4. Queue_StackUsingTwoQueue -> Implement Stack using Queues
+ 5. Queue_nonRepeatingLetter
+ 6. Queue_Interleave
+ 7. Queue_Reversal
+ 8. Queue_deque -> Using Java Collection Framework.
+ 9. Queue_StackAndQueue_UsingDeque
+
+ # Leetcode Questions
+ 1. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
+
+ 2. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)
+
+ 3. [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/)
+
+ 4. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
+ 
+ 5. [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
