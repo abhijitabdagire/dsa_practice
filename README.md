@@ -199,3 +199,62 @@ Extra question that I have Solve along with :
  4. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
  
  5. [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
+
+
+ # Binary Tree
+
+ 1. BinaryTreeA -> Build Tree, Preorder, Inorder, Postorder & Levelorder Traversal techniques.
+ 2. BinaryTreeA_heightTree -> Height of Tree, Count the Node in tree, Sum of Nodes, Diameter of a tree.
+ 3. BinaryTreeB_subTree
+ 4. BinaryTreeB_topView
+ 5. BinaryTreeC_kLevel
+ 6. BinaryTreeC_kthAcenstorofNode
+ 7. BinaryTreeC_lowestCommonAcenstor
+ 8. BinaryTreeC_minDistbetNodes
+ 9. BinaryTreeC_transformationtoSumTree
+ 
+# Leetcode Questions
+
+ 1. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
+
+ 2. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
+
+ 3. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
+ 
+ 4. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
+
+ 5. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+
+ 6. [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)
+
+ 7. [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/)
+
+ 8. [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/)
+
+ 9. [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)
+
+ 10. [Set Mismatch](https://leetcode.com/problems/set-mismatch)
+
+ 11. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
+
+ 12. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
+
+ 13. [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)
+
+ 14. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)
+
+ 15. [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/)
+
+ 16. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/description/)
+
+ 17. [Same Tree](https://leetcode.com/problems/same-tree/description/)
+
+ 18. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)
+
+ 19. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)
+
+ 20. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
+
+ 21. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
+ 
+
