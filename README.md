@@ -161,7 +161,7 @@ Extra question that I have Solve along with :
 8. Stack_duplicateParenthese
 9. Stack_maxAreaHistogram
 
-# LeetCode Questions
+## LeetCode Questions
 1. [Valid Paretheses](https://leetcode.com/problems/valid-parentheses/description/)
 
 2. [Next Greater Element I ](https://leetcode.com/problems/valid-parentheses/)
@@ -189,7 +189,7 @@ Extra question that I have Solve along with :
  8. Queue_deque -> Using Java Collection Framework.
  9. Queue_StackAndQueue_UsingDeque
 
- # Leetcode Questions
+ ## Leetcode Questions
  1. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)
 
  2. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)
@@ -213,7 +213,7 @@ Extra question that I have Solve along with :
  8. BinaryTreeC_minDistbetNodes
  9. BinaryTreeC_transformationtoSumTree
  
-# Leetcode Questions
+## Leetcode Questions
 
  1. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)
 
@@ -258,3 +258,25 @@ Extra question that I have Solve along with :
  21. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
  
 
+# Binary Search Tree (BST)
+
+ 1. BST_A -> Build BST, Serach Key, Delete a Node, Print in range, Root to Leaf Paths, Validate BST and Mirror a BST.
+ 2. BST_B -> Sorted array to Balanced BST.
+ 3. BST_B_ConvertBSTtoBalancedBST.
+ 4. BST_B_sizeOfLargestBST.
+ 5. BST_B_mergeBST.
+ 6. AVLTress.
+
+ ## Leetcode Question
+
+ 1. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
+
+ 2. [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/)
+
+ 3. [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)
+ 
+ 4. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
+
+ 5. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
+
+ 6. [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/)
