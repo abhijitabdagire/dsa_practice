@@ -15,8 +15,6 @@ public class Basic_Strings {
         String str1 = "abcd";
         String str2 = new String("xyz");
 
-        // String are IMMUTABLE
-
         // Input
         Scanner sc = new Scanner(System.in);
         // String name = sc.next(); -> Only one word are input
@@ -24,6 +22,8 @@ public class Basic_Strings {
         // System.out.println("Enter The Name : ");
         // String name = sc.nextLine();
         // System.out.println(name);
+
+        // String are IMMUTABLE
 
         // Contraction (+)
         String firstName = "Abhijit";

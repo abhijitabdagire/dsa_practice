@@ -26,8 +26,8 @@
 
 Extra question to solve this :
 
-[Remove Duplicates from Sorted Array - LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-
+[Remove Duplicates from Sorted Array - LeetCode](https://.com/problems/remove-duplicates-from-sorted-array/)
+leetcode
 [Find First and Last Position of Element in Sorted Array - LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
 [Container With Most Water - LeetCode](https://leetcode.com/problems/container-with-most-water/)
@@ -280,3 +280,17 @@ Extra question that I have Solve along with :
  5. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
 
  6. [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/)
+
+
+# Basic Of Sorting 
+1. BasicSorting_BubbleSort
+2. BasicSorting_SelectionSort
+3. BasicSorting_InsertionSort
+4. BasicSorting_CountSort
+
+
+# Divide and Conqure (Advance Sorting)
+1. DivideConqure_MergeSort
+2. DivideConqure_QuickSort
+3. Search in Rotated Sorted Array(Problem)
+

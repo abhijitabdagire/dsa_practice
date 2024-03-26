@@ -6,7 +6,6 @@ public class Trapping_RainWater {
 
         int n = height.length;
         // Calculate left max boundary - array
-
         int leftMax[] = new int[n];
         leftMax[0] = height[0];
         for (int i = 1; i < n; i++) {
@@ -14,7 +13,6 @@ public class Trapping_RainWater {
         }
 
         // Calculate right max boundary - array
-
         int rightMax[] = new int[n];
         rightMax[n - 1] = height[n - 1];
         for (int i = n - 2; i >= 0; i--) {
@@ -24,7 +22,6 @@ public class Trapping_RainWater {
         int trappedWater = 0;
 
         // loop
-
         for (int i = 0; i < n; i++) {
 
             // waterlevel = min(leftmax bound, rightmax bound)
