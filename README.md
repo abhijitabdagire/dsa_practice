@@ -101,7 +101,7 @@ Extra question that I have Solve along with :
  - Basic of Linked List (How to create a linked list)
  - Methods of Linked List 
  - Add Operation -> addFirst(), addLast(), addAtIndex()
- - print()
+ - print() and Size of Linked List.
  - Remove Operation -> removeFirst(), removeLast()
 
 2. Classroom.java -> Linked List in Java Collection Frameworks.
@@ -294,3 +294,18 @@ Extra question that I have Solve along with :
 2. DivideConqure_QuickSort
 3. Search in Rotated Sorted Array(Problem)
 
+
+# Recursion
+Recursion Basic (Theory).
+1. Recursion_printDec
+2. Recursion_printInc
+3. Recursion_printFact
+4. Recursion_printSum
+5. Recursion_fibNo
+6. Recursion_sortedArray
+7. Recursion_firstOccurance
+8. Recursion_printxofn
+9. Recursion_tilesProblem
+10. Recursion_removeDuplicates
+11. Recursion_friendsPairing
+12. Recursion_printBinString

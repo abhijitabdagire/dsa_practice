@@ -3,7 +3,6 @@ import java.util.*;
 class Pair {
     int max;
     int min;
-
 }
 
 public class Max_Min_Array {

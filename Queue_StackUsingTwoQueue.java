@@ -13,7 +13,7 @@ public class Queue_StackUsingTwoQueue {
             return q1.isEmpty() && q2.isEmpty();
         }
 
-        // add
+        // push
         public static void push(int data) {
             if (!q1.isEmpty()) {
                 q1.add(data);
@@ -22,7 +22,7 @@ public class Queue_StackUsingTwoQueue {
             }
         }
 
-        // remove
+        // pop
         public static int pop() {
             if (isEmpty()) {
                 System.out.println("Stack is Empty");

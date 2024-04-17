@@ -10,6 +10,10 @@ public class Basic_Strings {
 
     public static void main(String[] args) {
 
+        // what is String
+        // In Java, a string is an object that represents a number of character values
+
+        // How declear the string
         char arr[] = { 'a', 'b', 'c', 'd' };
 
         String str1 = "abcd";
@@ -23,7 +27,7 @@ public class Basic_Strings {
         // String name = sc.nextLine();
         // System.out.println(name);
 
-        // String are IMMUTABLE
+        // String are IMMUTABLE -> Once is declear then can not change.
 
         // Contraction (+)
         String firstName = "Abhijit";
