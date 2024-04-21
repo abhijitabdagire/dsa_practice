@@ -119,6 +119,7 @@ Extra question that I have Solve along with :
 7. Zig-Zag Linked List
 
 ## LeetCode Questions
+
 1. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 2. [Remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
@@ -162,6 +163,7 @@ Extra question that I have Solve along with :
 9. Stack_maxAreaHistogram
 
 ## LeetCode Questions
+
 1. [Valid Paretheses](https://leetcode.com/problems/valid-parentheses/description/)
 
 2. [Next Greater Element I ](https://leetcode.com/problems/valid-parentheses/)
@@ -309,3 +311,22 @@ Recursion Basic (Theory).
 10. Recursion_removeDuplicates
 11. Recursion_friendsPairing
 12. Recursion_printBinString
+
+
+# BackTracking
+
+1. BackTracking_BasiconArray
+2. BackTracking_Findsubset
+3. BackTracking_findPermution
+4. BackTracking_Nqueen
+5. BackTracking_GridWays
+6. BackTracking_SudokuSolver
+
+## Leetcode Question
+
+ 1. [SubSet](https://leetcode.com/problems/subsets/description/)
+
+ 2. [Permutations](https://leetcode.com/problems/subsets/description/)
+
+ 3. [N-Queens](https://leetcode.com/problems/n-queens/description/)
+ 
