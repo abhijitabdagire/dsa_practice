@@ -330,3 +330,13 @@ Recursion Basic (Theory).
 
  3. [N-Queens](https://leetcode.com/problems/n-queens/description/)
  
+
+# Greedy Algorithm
+
+1. GreedyAlgo_ActivitySelection
+2. GreedyAlgo_FractionKnapsack
+3. GreedyAlgo_MinAbsDiff
+4. GreedyAlgo_MaxChainLength
+5. GreedyAlgo_IndianCoins
+6. GreedyAlgo_JobSequening
+7. GreedyAlgo_ChocalaProblem
