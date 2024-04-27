@@ -340,3 +340,15 @@ Recursion Basic (Theory).
 5. GreedyAlgo_IndianCoins
 6. GreedyAlgo_JobSequening
 7. GreedyAlgo_ChocalaProblem
+
+
+# ArrayList
+
+1. ArrayList_Basic
+2. ArrayList_ReverseOrder
+3. ArrayList_FindMaxElement
+4. ArrayList_SwapList
+5. ArrayList_ContainerWithMostWater
+6. ArrayList_PairSum
+7. ArrayList_PairSumSec
+
