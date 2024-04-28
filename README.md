@@ -352,3 +352,13 @@ Recursion Basic (Theory).
 6. ArrayList_PairSum
 7. ArrayList_PairSumSec
 
+# Heap / PriorityQueue
+
+1. Pq -> Priority Queue in JCF
+2. Heap_insert -> Basic of Heap in that add(), remove(), peek().
+3. Heap_sort
+4. Heap_NearestCars
+5. Heap_ConnectNropes
+6. Heap_WeakestSolider
+7. Heap_SlidingWindowMax
+
