@@ -362,3 +362,9 @@ Recursion Basic (Theory).
 6. Heap_WeakestSolider
 7. Heap_SlidingWindowMax
 
+# Hashing 
+
+1. Hashing_Basic
+2. Hashing_HashMapCode
+
+
