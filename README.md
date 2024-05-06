@@ -368,3 +368,19 @@ Recursion Basic (Theory).
 2. Hashing_HashMapCode
 
 
+# Graph
+
+1. Graph_create
+2. Graph_BFS_DFS
+3. Graph_detectCycle
+4. Graph_Bipartite
+5. Graph_detectCycleDir
+6. Graph_TopologicalSort
+7. Graph_DijkstrasAlgo
+8. Graph_BellmanFord
+9. Graph_PrimsAlgo
+10. Graph_CheapsetFlights
+11. Graph_ConnectingCitiesMap
+12. Graph_DisjointSet
+13. Graph_KruskalAlgo
+
